@@ -1,0 +1,21 @@
+// Default Syntax Highlighter theme.
+
+@import "_theme_template.scss";
+
+.syntaxhighlighter {
+	.keyword { font-weight: bold !important; }
+}
+
+
+// and my customizations
+
+.syntaxhighlighter {
+  margin-left: 10px;
+  padding: 10px;
+  width: 580px !important;
+  @include border-radius(8px);
+  table {
+    width: 580px !important;
+  }
+}
+

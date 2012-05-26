@@ -9,7 +9,6 @@ require 'haml'
 
 configure do
 
-
   Compass.configuration do |config|
     config.project_path = File.dirname(__FILE__)
     config.sass_dir = 'views/stylesheets'
