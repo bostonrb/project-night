@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'rdiscount'
 require 'compass'
+require 'haml'
 
 configure do
 
