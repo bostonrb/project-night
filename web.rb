@@ -1,11 +1,14 @@
+require 'bundler'
+ENV["RACK_ENV"] ||= "development"
+Bundler.setup(:default, ENV["RACK_ENV"])
+
 require 'sinatra'
-require 'rdiscount'
 require 'compass'
+require 'rdiscount'
 require 'haml'
 
 configure do
 
-  set :markdown, :layout_engine => :haml
 
   Compass.configuration do |config|
     config.project_path = File.dirname(__FILE__)
@@ -13,6 +16,7 @@ configure do
   end
 
   set :scss, Compass.sass_engine_options
+  set :markdown, :layout_engine => :haml
 
 end
 
