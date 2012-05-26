@@ -1,10 +1,17 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    chunky_png (1.2.5)
+    compass (0.12.1)
+      chunky_png (~> 1.2)
+      fssm (>= 0.2.7)
+      sass (~> 3.1)
     daemons (1.1.8)
     eventmachine (0.12.10)
+    fssm (0.2.9)
     rack (1.4.1)
     rdiscount (1.6.8)
+    sass (3.1.15)
     sinatra (1.1.0)
       rack (~> 1.1)
       tilt (~> 1.1)
@@ -18,6 +25,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  compass
   rdiscount
   sinatra (= 1.1.0)
   thin
