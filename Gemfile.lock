@@ -4,6 +4,7 @@ GEM
     daemons (1.1.8)
     eventmachine (0.12.10)
     rack (1.4.1)
+    rdiscount (1.6.8)
     sinatra (1.1.0)
       rack (~> 1.1)
       tilt (~> 1.1)
@@ -17,5 +18,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rdiscount
   sinatra (= 1.1.0)
   thin
