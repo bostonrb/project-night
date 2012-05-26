@@ -1,0 +1,120 @@
+@import "compass/reset";
+@import "compass/typography/lists/horizontal-list";
+@import "compass/css3/border-radius";
+@import url(http://fonts.googleapis.com/css?family=Prociono);
+
+
+a {
+  color: #ddd;
+}
+
+body {
+  background: #880000;
+  color: #ddd;
+  font-family: prociono, georgia, palatino, times new roman, serif;
+  text-rendering: optimizeLegibility;
+  width: 600px;
+  margin: 10px 50px 75px 250px;
+
+  > header {
+    padding-top: 9px;
+    margin-bottom: 16px;
+    p {
+      font-size: .85em;
+      @include border-radius(8px);
+      background-color: #F5DCA0;
+      padding: 10px;
+      text-align: left;
+      margin-bottom: 5px;
+    }
+    h1 {
+      a {
+        font-size: 52px;
+        text-decoration: none;
+        padding-left: 6px;
+      }
+      img {
+        height: 70px;
+        position: relative;
+        top: 5px;
+      }
+    }
+  }
+}
+
+nav.links {
+  margin-bottom: 20px;
+  ul {
+    @include horizontal-list;
+    font-size: 12px;
+    margin-bottom: 10px;
+    li {
+      padding-left: 0px;
+      line-height: 1.5em;
+      &:after {
+        content: " /";
+      }
+      &:last-child:after {
+        content: "";
+      }
+      a {
+        text-decoration: none;
+        padding-bottom: 1px;
+        &:hover {
+          border-bottom: 1px solid;
+        }
+      }
+    }
+  }
+}
+
+section#container {
+    margin-bottom: 20px;
+    h2 {
+      position: relative;
+      left: -160px;
+      width: 140px;
+      text-align: right;
+      top: 20px;
+      &:after {
+        content: "/"
+      }
+    }
+    h3 {
+      font-size: 24px;
+      margin-bottom: 20px
+    }
+}
+
+#slides {
+  position: relative; }
+
+#slides div {
+  position: absolute; }
+
+#os-select {
+  list-style-type: none;
+  @include border-radius(8px);
+  background-color: #fff;
+  margin: 20px auto;
+  padding: 20px 0;
+
+}
+
+#os-select li {
+  display: inline-block;
+  width: 177px;
+  margin: 0px 10px;
+  text-align: center; }
+
+#os-select li img {
+  width: 180px; }
+
+p {
+  @include border-radius(8px);
+  background-color: #400;
+  padding: 10px;
+  margin-bottom: 25px;
+  line-height: 28px;
+  text-align: left;
+}

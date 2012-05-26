@@ -1,5 +1,18 @@
 !!!
 %html
   %head
+    %title Boston Ruby Beginners
+    %link(rel="stylesheet" href="/screen.css" media="screen")/
   %body
-    = yield
+    %header
+      %h1
+        %a(href="/")
+          %img(alt="logo" src="/logo.png")/
+          Boston Ruby Beginners
+    %nav.links
+      %ul
+        %li
+          %a(href="http://bostonrb.org")Boston Ruby Group
+        %li
+          %a(href="/install")Installation Guide
+    %section#container= yield
