@@ -47,7 +47,7 @@ end
 # get right in and start making markdown files.
 
 get '/:page' do |page|
-  if File.exist? "views/#{page}"
+  if File.exist? "views/#{page}.markdown"
     markdown page.intern
   else
     pass
