@@ -21,8 +21,11 @@ Open localhost:4567 in your web browser.
 
 ## Collaboration
 
-To commit to the repo, you need to be added to the project. Email Daniel Choi
-dhchoi@gmail.com or Chris Rhoden carhoden@gmail.com to be added.
+To commit to the repo, you need to be added to the project. Contact [Daniel Choi](danchoi)
+or [Chris Rhoden](chrisrhoden) to be added.
+
+[danchoi]:https://github.com/danchoi
+[chrisrhoden]:https://github.com/chrisrhoden
 
 
 ## Heroku
