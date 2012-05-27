@@ -46,7 +46,8 @@ end
 # Mostly added so that people who don't want to fuss with a Sinatra app can
 # get right in and start making markdown files.
 
-get '/:page' do |page|
+get '/*' do 
+  page = params[:splat].join('/')
   if File.exist? "views/#{page}.markdown"
     markdown page.intern
   else
