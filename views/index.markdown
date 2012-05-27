@@ -6,7 +6,7 @@ Beginners' corner stuff here
 ## when
 ### June Something
 
-We seriously shouldn't be using this for scheduling infomation, but this
+We seriously shouldn't be using this for scheduling information, but this
 should make it pretty clear how this works.
 
 ```ruby

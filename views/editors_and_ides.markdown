@@ -21,5 +21,5 @@ by typical IDEs.
 Rubyists also pride themselves on using a test-driven approach to software development, so there is less emphasis on
 using a traditional IDE-based debugger.  Debuggers are still available for Ruby, but the default approach is test-driven.
 
-[Prefer an IDE?](/ides)
+Still prefer and IDE?  Try out some of these [options](/ides)
 
