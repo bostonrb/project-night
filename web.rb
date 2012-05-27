@@ -24,10 +24,12 @@ configure do
   end
 
   set :scss, Compass.sass_engine_options
-  set :markdown, :layout_engine => :haml
-  set :markdown, :no_intra_emphasis => true
-  set :markdown, :fenced_code_blocks => true
-  set :markdown, :renderer => HTMLwithCodeRay.new
+
+  set :markdown,
+    :layout_engine => :haml,
+    :no_intra_emphasis => true,
+    :fenced_code_blocks => true,
+    :renderer => HTMLwithCodeRay.new
 
 end
 
