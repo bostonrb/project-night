@@ -9,8 +9,27 @@ Beginners' corner stuff here
 We seriously shouldn't be using this for scheduling infomation, but this
 should make it pretty clear how this works.
 
-    def a_method(*args)
-      p args
-    end
+```ruby
+def a_method(*args)
+  p args
+end
+```
+
+```
+code with no type (a hack for important stuff)
+```
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Foo</title>
+    <script src="foo"></script>
+  </head>
+  <body>
+    ok!
+  </body>
+</html>
+```
 
 Hope this helps!
