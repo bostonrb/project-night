@@ -43,19 +43,14 @@ get '/screen.css' do
 end
 
 # This handles default routes for the markdown files in `views/`
-# It should stay at the end of the file if it stays at all.
 # Mostly added so that people who don't want to fuss with a Sinatra app can
 # get right in and start making markdown files.
 
-Dir[File.join(File.dirname(__FILE__), 'views', '**', '*.markdown')].each do |file|
-  # partials
-  next if File.basename(file, 'markdown')[0] == '_'
-
-  #get everything after 'views'
-  file = file.split('views').last.sub(/\.markdown$/,'')
-
-  get file do
-    markdown file.intern
+get '/:page' do |page|
+  if File.exist? "views/#{page}"
+    markdown page.intern
+  else
+    pass
   end
 end
 
