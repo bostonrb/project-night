@@ -1,4 +1,4 @@
 * [Boston Ruby Group](http://bostonrb.org)
 * [Installation Guide](/install)
-* [Editors and IDEs](/editors_and_ides)
+* [Editors and IDEs](/editors)
 * [Another Link](/links)
