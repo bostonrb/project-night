@@ -47,7 +47,7 @@ end
 # get right in and start making markdown files.
 
 get '/*' do 
-  page = params[:splat].join('/')
+  page = File.join params[:splat]
   if File.exist? "views/#{page}.markdown"
     markdown page.intern
   else
