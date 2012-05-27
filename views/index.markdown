@@ -9,4 +9,8 @@ Beginners' corner stuff here
 We seriously shouldn't be using this for scheduling infomation, but this
 should make it pretty clear how this works.
 
-    this is code
+    def a_method(*args)
+      p args
+    end
+
+Hope this helps!
