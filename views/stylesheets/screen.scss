@@ -127,4 +127,14 @@ code {
   @include border-radius(8px);
   margin-bottom: 25px;
   color: #333;
+
+  p {
+    padding: 0;
+    background-color: transparent;
+    margin-bottom: 0;
+
+    a {
+      color: #222;
+    }
+  }
 }

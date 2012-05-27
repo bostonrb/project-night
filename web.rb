@@ -11,9 +11,16 @@ require 'coderay'
 
 configure do
 
+
   class HTMLwithCodeRay < Redcarpet::Render::HTML
+    INNER_RENDERER = Redcarpet::Markdown.new(Redcarpet::Render::HTML.new)
+
     def block_code(code, language)
-      code = language.nil? ? code : CodeRay.scan(code, language).div(:css => :class)
+      if language
+        code = CodeRay.scan(code, language).div(:css => :class)
+      else
+        code = INNER_RENDERER.render(code)
+      end
       "<code attr-language='#{language}'>#{code}</code>"
     end
   end
@@ -46,7 +53,7 @@ end
 # Mostly added so that people who don't want to fuss with a Sinatra app can
 # get right in and start making markdown files.
 
-get '/*' do 
+get '/*' do
   page = File.join params[:splat]
   if File.exist? "views/#{page}.markdown"
     markdown page.intern
