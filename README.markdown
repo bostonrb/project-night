@@ -11,11 +11,11 @@ Please start adding content.
 
 After you clone this repo, cd into it and install dependencies with
 
-  bundle 
+    bundle 
 
 Then you can start the webapp with 
 
-  ruby web.app
+    ruby web.app
 
 Open localhost:4567 in your web browser.
 
