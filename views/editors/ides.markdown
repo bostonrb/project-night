@@ -2,10 +2,9 @@
 
 ### Why Consider an IDE over a Text Editor?
 
-Many, if not most, Rubyists prefer to use just a text editor to develop applications.  Ruby
-and Rails are known for having expressive syntax and intuitive APIs, reducing 
-the need for many of the features, like intelli-sense, that are provided by
-typical IDEs.
+Many, if not most, Rubyists prefer to use just a fairly light-weight text editor to develop applications.  
+Ruby and Ruby on Rails are known for having expressive syntax and intuitive APIs, reducing 
+the need for many of the features, like intelli-sense, that are typically provided by typical IDEs.
 
 Rubyists also pride themselves on using a test-driven approach to software
 development, so some find less need for a traditional IDE-based
