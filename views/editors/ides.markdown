@@ -1,17 +1,18 @@
-## ides
-### Why Consider a Text Editor?
+##  Integrated Development Environments (IDEs)
 
-Most Rubyists prefer to use just a text editor to develop applications.  Ruby
-and Rails are known for having expressive syntax and intuitive APIs, minimizing
+### Why Consider an IDE over a Text Editor?
+
+Many, if not most, Rubyists prefer to use just a text editor to develop applications.  Ruby
+and Rails are known for having expressive syntax and intuitive APIs, reducing 
 the need for many of the features, like intelli-sense, that are provided by
 typical IDEs.
 
 Rubyists also pride themselves on using a test-driven approach to software
-development, so there is less emphasis on using a traditional IDE-based
+development, so some find less need for a traditional IDE-based
 debugger.  Debuggers are still available for Ruby, but the default approach is
-test-driven.
+test-driven _first_.
 
-If you prefer using an IDE, the following IDEs are supported on multiple
+If you would like an IDE, the following IDEs are supported on multiple
 platforms (Windows, Mac, and Linux). Check the vendor documentation for
 instructions on how to set up and install the IDE for Ruby on your OS.
 
@@ -20,10 +21,8 @@ instructions on how to set up and install the IDE for Ruby on your OS.
 that brought you TeamCity and IntelliJ.  If you are a Java developer coming to
 Ruby from IntelliJ, or are a .NET developer using Visual Studio and ReSharper,
 RubyMine will be a familiar environment.  RubyMine has good intelli-sense to
-help get you started.
-
-RubyMine has a free 30 day trial and at the time of writing a personal license
-of $69.
+help get you started.  Rubymine is generally considered to be the most advanced IDE by those who have also used Eclipse and netBeans for some time.  It has the most comprehensive features available for running tests, global substitutions, intellisense, well integrated versino control, and many other features.  It includes functionality not found in other IDE's such as its Model Dependency Diagram (ERD).  It includes appropiate syntax and highlighting for a variey of files including ruby, html and css.
+RubyMine has a free 30 day trial and at the time of writing a personal license of $69.
 
 ### [Aptana Studio](http://aptana.com/products/studio3)
 [Aptana Studio](http://aptana.com/products/studio3) is a free, open-source IDE with support for development in HTML,
