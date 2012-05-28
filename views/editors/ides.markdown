@@ -2,22 +2,22 @@
 
 ### Why Consider a Text Editor?
 
-Most Rubyists prefer to use just a fairly light-weight text editor to develop applications.  
-Ruby and Ruby on Rails are known for having expressive syntax and intuitive APIs, reducing 
-the need for many of the features, like intelli-sense, that are typically provided by typical IDEs.
+Most Rubyists prefer to use just a fairly light-weight text editor to develop applications.  Ruby and Ruby on Rails
+are known for having expressive syntax and intuitive APIs, reducing the need for many of the features,
+like intelli-sense, that are typically provided by typical IDEs.
 
-Rubyists also pride themselves on using a test-driven approach to software
-development, so some find less need for a traditional IDE-based
-debugger.  Debuggers are still available for Ruby, but the default approach is
-test-driven _first_.
+Rubyists pride themselves on using a test-driven approach to software development, so there is less need for a
+traditional IDE-based debugger.  Debuggers are still available for Ruby, but the default approach is
+test-driven first.
 
 If you would like an IDE, the following IDEs are supported on multiple
 platforms (Windows, Mac, and Linux). Check the vendor documentation for
 instructions on how to set up and install the IDE for Ruby on your OS.
 
 ### [RubyMine](http://www.jetbrains.com/ruby/)
-[RubyMine](http://www.jetbrains.com/ruby/) is put out by JetBrains, the folks that brought you TeamCity and IntelliJ.  If you are a Java developer coming to Ruby from IntelliJ, or are a .NET developer using Visual Studio and ReSharper, RubyMine will be a familiar environment.  
-Rubymine is generally considered to be the most advanced  Ruby/Rails IDE by those who have also used Eclipse and netBeans for some time.  It has the most comprehensive features available for running tests, global substitutions, intellisense, well integrated versino control, and many other features.  It includes functionality not found in other IDE's such as its Model Dependency Diagram (ERD).  It includes appropiate syntax and highlighting for a variey of files including ruby, html and css.
+[RubyMine](http://www.jetbrains.com/ruby/) is put out by JetBrains, the folks that brought you TeamCity and IntelliJ.
+If you are a Java developer coming to Ruby from IntelliJ, or are a .NET developer using Visual Studio and ReSharper,
+RubyMine will be a familiar environment to you.
 RubyMine has a free 30 day trial and at the time of writing a personal license of $69.
 
 ### [Aptana Studio](http://aptana.com/products/studio3)
