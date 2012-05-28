@@ -2,7 +2,7 @@
 
 ## This includes various desktop items, shell changes, database installs, browser tools, etc.
 
-### Maintained by: Michael Durrant, questions and suggestions to m2@snap2web.com
+### Originally written by: Michael Durrant, questions and suggestions to m2@snap2web.com
 ### Versions as of 5/20/2012 -
 #### Ubuntu 11.10
 #### Ruby   1.9.3
