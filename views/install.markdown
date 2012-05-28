@@ -10,19 +10,19 @@ To start, we need to know what operating system your computer has on it.
   <li style="list-style: none">
     <a id="body" href="/install/osx">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/osx.png" alt="Mac OS X" width="100" height="100" />
-      Apple.
+      Apple
     </a>
   </li>
   <li style="list-style: none">
     <a href="/install/windows">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/windows.png" alt="Microsoft Windows"  width="100" height="100" />
-      Windows.
+      Windows
     </a>
   </li>
   <li style="list-style: none">
-    <a href="/install/linux">
+    <a href="/install/ubuntu">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/tux.png" alt="Linux" width="100" height="100" />
-      Linux.
+      Linux - Ubuntu
     </a>
   </li>
 </ul>
