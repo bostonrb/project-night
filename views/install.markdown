@@ -7,21 +7,21 @@ great things about the Ruby community is the wealth of available resources to he
 To start, we need to know what operating system your computer has on it.
 
 <ul id="os-select">
-  <li style="list-style: none">
+  <li>
     <a id="body" href="/install/osx">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/osx.png"
       alt="Mac OS X" />
       Apple
     </a>
   </li>
-  <li style="list-style: none">
+  <li>
     <a href="/install/windows">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/windows.png"
       alt="Microsoft Windows" />
       Windows
     </a>
   </li>
-  <li style="list-style: none">
+  <li>
     <a href="install/ubuntu.markdown">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/tux.png"
       alt="Linux" />
