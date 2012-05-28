@@ -1,5 +1,5 @@
 ## editors
-### Text Editors and Integrated Development Enviroments (IDEs)
+### Text Editors and Integrated Development Environments (IDEs)
 
 A text editor allows you to edit files that make up your program.  If you are an
 experienced programmer coming to Ruby from another language you probably have a
