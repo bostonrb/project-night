@@ -5,14 +5,9 @@ Setting up a computer to program in Ruby and Ruby on Rails requires several pack
 great things about the Ruby community is the wealth of available resources to help get you started on your journey.
 
 To start, we need to know what operating system your computer has on it.
-<style>
-
-li { list-style: none;}
-
-</style>
 
 <ul id="os-select">
-  <li>
+  <li style="list-style: none;">
     <a id="body" href="/install/osx">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/osx.png" alt="Mac OS X" width="100" height="100" />
       Apple.
