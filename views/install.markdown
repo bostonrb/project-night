@@ -20,7 +20,7 @@ To start, we need to know what operating system your computer has on it.
     </a>
   </li>
   <li style="list-style: none">
-    <a href="install/ubuntu">
+    <a href="install/ubuntu.md">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/tux.png" alt="Linux" width="100" height="100" />
       Linux - Ubuntu
     </a>
