@@ -2,7 +2,7 @@
 
 ### Why Consider a Text Editor?
 
-Many, if not most, Rubyists prefer to use just a fairly light-weight text editor to develop applications.  
+Most Rubyists prefer to use just a fairly light-weight text editor to develop applications.  
 Ruby and Ruby on Rails are known for having expressive syntax and intuitive APIs, reducing 
 the need for many of the features, like intelli-sense, that are typically provided by typical IDEs.
 
