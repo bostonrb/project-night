@@ -25,6 +25,10 @@ help get you started.
 RubyMine has a free 30 day trial and at the time of writing a personal license
 of $69.
 
+### [Aptana Studio](http://aptana.com/products/studio3)
+[Aptana Studio](http://aptana.com/products/studio3) is a free, open-source IDE with support for development in HTML,
+CSS, JavaScript, PHP, and Ruby.  It has an integrated debugger and git support built-in.
+
 ### [Eclipse](http://www.eclipse.org/)
 [Eclipse](http://www.eclipse.org/) provides a plug-in for Ruby development. This
 [link](http://mhreviews.wordpress.com/2011/04/17/april-17-2011-start-using-eclipse-to-develop-ruby-programs/)
