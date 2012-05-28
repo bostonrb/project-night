@@ -9,7 +9,7 @@ To start, we need to know what operating system your computer has on it.
 <ul id="os-select">
   <li>
     <a id="body" href="/install/osx">
-      <img src="https://github.com/danchoi/bostonrb-beginners/blob/master/public/images/osx.png" alt="Mac OS X" />
+      <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/osx.png" alt="Mac OS X" />
       I have a Mac.
     </a>
   </li>
