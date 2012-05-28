@@ -28,6 +28,7 @@ documents to be opened at once through a tabbed windows interface. This is a
 good option for getting up and running with Ruby on Windows without purchasing
 an IDE.  Notepad++ is free and is only available for Windows.
 
+## ides
 ```
 Looking for an IDE? Try out some of these [options](/editors/ides). If you don't
 know what an IDE is, you probably don't want one.
