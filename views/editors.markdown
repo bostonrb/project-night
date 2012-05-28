@@ -1,9 +1,9 @@
 ## editors
-### Text Editors and Integrated Development Environments (IDEs)
+### Text Editors
 
 A text editor allows you to edit files that make up your program.  If you are an
 experienced programmer coming to Ruby from another language you probably have a
-favorite text editor or IDE.
+favorite editor.
 
 ```
 If you are new to programming, we recommend you install the trial of
@@ -29,5 +29,6 @@ good option for getting up and running with Ruby on Windows without purchasing
 an IDE.  Notepad++ is free and is only available for Windows.
 
 ```
-Prefer an IDE? Try out some of these [options](/editors/ides).
+Looking for an IDE? Try out some of these [options](/editors/ides). If you don't
+know what an IDE is, you probably don't want one.
 ```
