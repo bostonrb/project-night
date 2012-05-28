@@ -13,13 +13,13 @@ To start, we need to know what operating system your computer has on it.
       Apple.
     </a>
   </li>
-  <li style="list-style: none;>
+  <li style="list-style: none>
     <a href="/install/windows">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/windows.png" alt="Microsoft Windows"  width="100" height="100" />
       Windows.
     </a>
   </li>
-  <li style="list-style: none;>
+  <li style="list-style: none>
     <a href="/install/linux">
       <img src="https://github.com/danchoi/bostonrb-beginners/raw/master/public/images/tux.png" alt="Linux" width="100" height="100" />
       Linux.
