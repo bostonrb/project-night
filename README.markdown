@@ -1,9 +1,10 @@
 # bostonrb-beginners
 
-This is the starting point for putting up helpful content for beginners who
-show up at Project Night. 
+This is the starting point for putting up helpful content for beginners
+who show up at Project Night. 
 
-We will almost certainly be able to reuse this stuff for the Women's Workshop.
+We will almost certainly be able to reuse this stuff for the Women's
+Workshop.
 
 Please start adding content. 
 
@@ -21,12 +22,16 @@ Open localhost:4567 in your web browser.
 
 ## Collaboration
 
-To commit to the repo, you need to be added to the project. Contact [Daniel Choi](danchoi)
-or [Chris Rhoden](chrisrhoden) to be added.
+To commit to the repo, you need to be added to the project. Contact
+[Daniel Choi](danchoi) or [Chris Rhoden](chrisrhoden) to be added.
 
 [danchoi]:https://github.com/danchoi
 [chrisrhoden]:https://github.com/chrisrhoden
 
+## Style Guide
+
+When writing Markdown, please set your text editor to insert line breaks
+so that no line is longer than 72 characters wide
 
 ## Heroku
 
