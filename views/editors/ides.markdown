@@ -16,11 +16,8 @@ platforms (Windows, Mac, and Linux). Check the vendor documentation for
 instructions on how to set up and install the IDE for Ruby on your OS.
 
 ### [RubyMine](http://www.jetbrains.com/ruby/)
-[RubyMine](http://www.jetbrains.com/ruby/) is put out by JetBrains, the folks
-that brought you TeamCity and IntelliJ.  If you are a Java developer coming to
-Ruby from IntelliJ, or are a .NET developer using Visual Studio and ReSharper,
-RubyMine will be a familiar environment.  RubyMine has good intelli-sense to
-help get you started.  Rubymine is generally considered to be the most advanced IDE by those who have also used Eclipse and netBeans for some time.  It has the most comprehensive features available for running tests, global substitutions, intellisense, well integrated versino control, and many other features.  It includes functionality not found in other IDE's such as its Model Dependency Diagram (ERD).  It includes appropiate syntax and highlighting for a variey of files including ruby, html and css.
+[RubyMine](http://www.jetbrains.com/ruby/) is put out by JetBrains, the folks that brought you TeamCity and IntelliJ.  If you are a Java developer coming to Ruby from IntelliJ, or are a .NET developer using Visual Studio and ReSharper, RubyMine will be a familiar environment.  
+Rubymine is generally considered to be the most advanced  Ruby/Rails IDE by those who have also used Eclipse and netBeans for some time.  It has the most comprehensive features available for running tests, global substitutions, intellisense, well integrated versino control, and many other features.  It includes functionality not found in other IDE's such as its Model Dependency Diagram (ERD).  It includes appropiate syntax and highlighting for a variey of files including ruby, html and css.
 RubyMine has a free 30 day trial and at the time of writing a personal license of $69.
 
 ### [Aptana Studio](http://aptana.com/products/studio3)
