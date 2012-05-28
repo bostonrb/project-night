@@ -31,7 +31,8 @@ To commit to the repo, you need to be added to the project. Contact
 ## Style Guide
 
 When writing Markdown, please set your text editor to insert line breaks
-so that no line is longer than 72 characters wide
+so that no Markdown line is longer than 72 characters wide. Lines
+containing HTML markup, code, or long URLs may exceed this length.
 
 ## Heroku
 
