@@ -22,7 +22,7 @@ Remember to bring your laptop and power cord.  Headphones are also
 helpful if you plan to watch tutorials, especially for computer setup.
 
 ## when
-### Tuesday, June 5th, 7:00 PM
+### Tuesday, June 5th, 7:00 PM - 10:00 PM
 
 Project nights occur on the first Tuesday of every month.
 
