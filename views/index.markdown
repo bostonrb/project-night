@@ -6,7 +6,7 @@ programming language?
 
 Come to Boston Ruby Project Night.  Work on your own project or come
 help someone with theirs.  Everyone is welcome and all skill levels are
-encouraged.  Food will be provided courtesy of
+encouraged.  Food and drinks will be provided courtesy of
 [thoughtbot](http://thoughtbot.com/).  Space is limited so please
 [RSVP][rsvp]!
 
@@ -32,4 +32,8 @@ Project nights occur on the first Tuesday of every month.
 
 [41 Winter St, Boston Ma 02108](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=41+winter+street+boston+ma+02108&sll=37.0625,-95.677068&sspn=59.597077,135.263672&ie=UTF8&hq=&hnear=41+Winter+St,+Boston,+Suffolk,+Massachusetts+02108&z=17)
 on the 8th floor. Thanks, [thoughtbot!](http://thoughtbot.com/)
+
+## rsvp
+
+Please [RSVP here][rsvp]!
 
