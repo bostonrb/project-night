@@ -1,4 +1,5 @@
-* [Boston Ruby Group](http://bostonrb.org)
+* [Home](/)
 * [Installation Guide](/install)
 * [Editors](/editors)
-
+* [Resources](/resources)
+* [Boston Ruby Group](http://bostonrb.org)
