@@ -10,40 +10,26 @@
 
 ---
 
-## Optional - Install Ubuntu
+## Optional - Install Ubuntu (Appendix A) and a database GUI(s) if desired (Appendix B)
 
-If you haven't already installed Ubuntu, download or obtain the desired version of Ubuntu and either burn onto a CD or copy to a USB drive and install it.  
-As of 5/20/2012 I recommend Ubuntu version 11.10  
-  Overview:    <https://help.ubuntu.com/community/Installation>  
-  USB Install: <https://help.ubuntu.com/community/Installation/FromUSBStick>
-
-## Install development applications -Ruby, Rails, etc.
-
-  curl: `sudo apt-get install curl`  
+## Install Ruby ad Rails
 
   As of 5/28/2012 I recommend you use the following shell script to install Ruby and Rails, RVM, Bundler, Rubygems and others: <https://github.com/joshfng/railsready>  
 
     wget --no-check-certificate https://raw.github.com/joshfng/railsready/master/railsready.sh && bash railsready.sh  
 
-  Then install the database GUI(s) you desire:
-
-  mySQL GUI: mySQL Workbench - <http://dev.mysql.com/downloads/workbench/>  
-  or...  
-  Postgres GUI: pgAdminIII - Synaptic
-
-
   However, if the above is not suitable for your needs, the manual steps are:
 
-  rvm: `bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)`  
+  RVM(Ruby Version Manger): `bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)`  
   Ruby: `rvm install 1.9.3 ; rvm use 1.9.3 --default`  
   Rails: `gem install rails -v 3.2.3`  
+
+## Optional - a SQL database
+
   mySQL: `sudo apt-get install mysql-server`  
-  mySQL GUI: mySQL Workbench - <http://dev.mysql.com/downloads/workbench/>  
   or...  
   Postgres: `sudo apt-get install libpq-dev ; gem install pg`  
-  Postgres GUI: pgAdminIII(gui): Synaptic
 
----
 ## You are Done!
 
 > You have now completed the steps to create and run Ruby and/or Ruby on Rails applications!  
@@ -51,7 +37,7 @@ As of 5/20/2012 I recommend Ubuntu version 11.10
 
 ---
 
-## Install optional additional development tools
+## Additional development tools
 
   Graphical git - gitg: `Synaptic`  
   Vim Editor - gvim: `Synaptic`  
@@ -78,3 +64,24 @@ As of 5/20/2012 I recommend Ubuntu version 11.10
   - Firebug: <http://getfirebug.com> or <https://addons.mozilla.org/firefox/downloads/latest/1843/>
   - WebDeveloper: <https://addons.mozilla.org/en-US/firefox/addon/web-developer/>
   - ColorZilla: <https://addons.mozilla.org/firefox/downloads/latest/271/>
+
+---
+
+### Appendix A
+
+If you haven't already installed Ubuntu, download or obtain the desired version of Ubuntu and either burn onto a CD or copy to a USB drive and install it.  
+
+As of 5/20/2012 I recommend Ubuntu version 11.10  
+
+  Overview:    <https://help.ubuntu.com/community/Installation>  
+  USB Install: <https://help.ubuntu.com/community/Installation/FromUSBStick>
+
+Also install curl for file transfers: `sudo apt-get install curl`  
+
+### Appendix B
+
+  Install the database GUI(s) you desire:
+
+  mySQL GUI: mySQL Workbench - <http://dev.mysql.com/downloads/workbench/>  
+  or...  
+  Postgres GUI: pgAdminIII - Synaptic
