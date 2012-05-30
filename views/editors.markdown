@@ -9,7 +9,7 @@ If you are new to programming, we recommend you install the trial of
 [SublimeText 2](http://www.sublimetext.com/2) as it's available on all
 platforms and doesn't have much of a learning curve.
 
-If you are an experienced [VI](http://www.vim.org/),
+If you are an experienced [Vim](http://www.vim.org/),
 [Emacs](http://www.gnu.org/software/emacs/), or
 [TextMate](http://macromates.com/) user, you probably know you can use them for
 anything, including Ruby development.
