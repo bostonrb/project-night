@@ -19,12 +19,15 @@ your time, you may want to try to get through [our installation
 guide](/install) in advance of the meeting.  
 
 Tired of hackfests where no one says hello to you and everyone is just
-staring anti-socially into their computer screens? We want to make Project Night
-different. We want to encourage people to use this opportunity to meet,
-connect, talk, mentor, and learn from each other.
+staring anti-socially into their computer screens? We want to make
+Project Night different. We will encourage people to meet, connect,
+talk, mentor, and learn from each other. 
 
 Remember to bring your laptop and power cord.  Headphones are also
 helpful if you plan to watch tutorials, especially for computer setup.
+Please try to arrive roughly on time, as we will go around and have
+everyone introduce themselves and say what they're working on or would
+like to get help on at the beginning of the event.
 
 ## when
 ### Tuesday, June 5th, 7:00 PM - 10:00 PM
