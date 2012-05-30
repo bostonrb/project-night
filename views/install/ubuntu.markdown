@@ -7,7 +7,7 @@ The [Rails Ready][rails-ready] installation script will install Ruby, Imagemagic
 
 You can run the installation script from the Terminal with this command:
 
-```bash
+```text
 
 wget --no-check-certificate \
 https://raw.github.com/joshfng/railsready/master/railsready.sh && \
