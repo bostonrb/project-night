@@ -59,9 +59,9 @@
 
   Install useful browser tools, e.g. for Firefox, install these extensions:  
 
-  - Firebug: <http://getfirebug.com> or <https://addons.mozilla.org/firefox/downloads/latest/1843/>
-  - WebDeveloper: <https://addons.mozilla.org/en-US/firefox/addon/web-developer/>
-  - ColorZilla: <https://addons.mozilla.org/firefox/downloads/latest/271/>
+- Firebug: <http://getfirebug.com> or <https://addons.mozilla.org/firefox/downloads/latest/1843/>
+- WebDeveloper: <https://addons.mozilla.org/en-US/firefox/addon/web-developer/>
+- ColorZilla: <https://addons.mozilla.org/firefox/downloads/latest/271/>
 
 ---
 
