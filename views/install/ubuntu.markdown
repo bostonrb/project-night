@@ -11,7 +11,8 @@
 
 ## Install Ruby ad Rails
 
-  As of 5/28/2012 I recommend you use the following shell script to install Ruby and Rails, RVM, Bundler, Rubygems and others: <https://github.com/joshfng/railsready>  
+  As of 5/28/2012 I recommend you use the following shell script to install Ruby and Rails, RVM, Bundler, Rubygems and others:  
+ <https://github.com/joshfng/railsready>  
 
     wget --no-check-certificate https://raw.github.com/joshfng/railsready/master/railsready.sh && bash railsready.sh  
 
