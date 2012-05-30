@@ -38,7 +38,7 @@
 ## Additional development tools (optional).
 
   Graphical git - gitg: `Synaptic`  
-  Vim Editor - gvim: `Synaptic` - and check out [our recommendations](/editors) 
+  Vim Editor - gvim: `Synaptic` - and check out [our recommendations](/editors)  
   mySQL GUI - mySQL Workbench: <http://dev.mysql.com/downloads/workbench/>  
   Image Editor - gimp: `Synaptic`
 
