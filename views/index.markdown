@@ -19,7 +19,7 @@ your time, you may want to try to get through [our installation
 guide](/install) in advance of the meeting.  
 
 Tired of hackfests where no one says hello to you and everyone is just
-staring in their computer screens? We want to make Project Night
+staring anti-socially into their computer screens? We want to make Project Night
 different. We want to encourage people to use this opportunity to meet,
 connect, talk, mentor, and learn from each other.
 
