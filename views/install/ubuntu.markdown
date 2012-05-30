@@ -10,7 +10,7 @@
 
 ---
 
-## Optional - Install Ubuntu (Appendix A) and a database GUI(s) if desired (Appendix B)
+## Optional - Install Ubuntu (Appendix A) and a database GUI (Appendix B)
 
 ## Install Ruby ad Rails
 
