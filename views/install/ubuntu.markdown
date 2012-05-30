@@ -1,4 +1,4 @@
-#Setting up a Ruby on Rails Development Environment on Ubuntu  
+#Ruby on Rails on Ubuntu  
 
 ### Versions as of 5/20/2012 -
 #### Ubuntu 11.10
