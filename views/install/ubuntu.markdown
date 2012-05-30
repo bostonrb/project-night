@@ -37,7 +37,7 @@
 
 ---
 
-## Additional development tools
+## Additional development tools (optional).
 
   Graphical git - gitg: `Synaptic`  
   Vim Editor - gvim: `Synaptic`  
