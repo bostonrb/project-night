@@ -1,8 +1,5 @@
 #Setting up a Ruby on Rails Development Environment on Ubuntu  
 
-## This includes various desktop items, shell changes, database installs, browser tools, etc.
-
-### Originally written by: Michael Durrant.
 ### Versions as of 5/20/2012 -
 #### Ubuntu 11.10
 #### Ruby   1.9.3
