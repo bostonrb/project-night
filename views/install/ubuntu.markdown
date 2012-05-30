@@ -10,12 +10,10 @@
 
 ---
 
-## Install Ubuntu
+## Optional - Install Ubuntu
 
-Download or obtain the desired version of Ubuntu and either burn onto a CD or copy to a USB drive and install it.  
-
+If you haven't already installed Ubuntu, download or obtain the desired version of Ubuntu and either burn onto a CD or copy to a USB drive and install it.  
 As of 5/20/2012 I recommend Ubuntu version 11.10
-
   Overview:    <https://help.ubuntu.com/community/Installation>  
   USB Install: <https://help.ubuntu.com/community/Installation/FromUSBStick>
 
@@ -23,7 +21,7 @@ As of 5/20/2012 I recommend Ubuntu version 11.10
 
   curl: `sudo apt-get install curl`  
 
-  As of 5/28/2012 I recommend you use the following schell script to install Ruby and Rails, RVM, Bundler, Rubygems and others: <https://github.com/joshfng/railsready>  
+  As of 5/28/2012 I recommend you use the following shell script to install Ruby and Rails, RVM, Bundler, Rubygems and others: <https://github.com/joshfng/railsready>  
 
     wget --no-check-certificate https://raw.github.com/joshfng/railsready/master/railsready.sh && bash railsready.sh  
 
@@ -62,7 +60,7 @@ As of 5/20/2012 I recommend Ubuntu version 11.10
 
 ## Post-installation tasks:
 
-  Create ssh keys so you can work with github.
+  If not already done, create ssh keys so you can work with github.
 
     ssh git@github.com
     ssh-keygen 
@@ -80,31 +78,3 @@ As of 5/20/2012 I recommend Ubuntu version 11.10
   - Firebug: <http://getfirebug.com> or <https://addons.mozilla.org/firefox/downloads/latest/1843/>
   - WebDeveloper: <https://addons.mozilla.org/en-US/firefox/addon/web-developer/>
   - ColorZilla: <https://addons.mozilla.org/firefox/downloads/latest/271/>
-
-## Optional - Customize Desktop
-
-  Enable Panel Notifcations for apps like Skype  
-
-    sudo apt-get install dconf-tools  
-    sudo apt-get install gconf-editor  
-  reboot  
-  Use configuration Editor, e.g. `$ gconf-editor ` to set Desktop -> Unity ->  Panel -> Value to ['all']  
-  Change Preferences (Settings) Screen to 30 minute timeout when plugged in  
-  Touchpad  & Mouse:
-
-  - Uncheck 'Enable mouse clicks with touchpad'  
-  - Select 'Two-finger scrolling'  
-  - Change Mouse Pointer speed to about 25% (or whatever you prefer) of the scale shown.
-
-## Optional - Enable automatic cd'ing for directories.
-
-    shopt -s autocd (add to your ~/.bashrc file)
-
-## Optional - Add useful aliases
-
-  `~/.bash_aliases` is an optional file but _really_ useful for a multitude of personal aliases.  
-  My personal favorites (from many) are:
-
-    alias gadd='git add '  
-    alias srs='script/rails server'  
-    alias hg='history | grep'
