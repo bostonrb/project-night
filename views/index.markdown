@@ -2,7 +2,7 @@
 ### BostonRB Project Night #1
 
 Interested in building useful and amazing things with the Ruby
-programming language?
+programming language or with Ruby on Rails?
 
 Come to Boston Ruby Project Night.  Work on your own project or come
 help someone with theirs.  Everyone is welcome and all skill levels are
@@ -12,12 +12,11 @@ encouraged.  Food and drinks will be provided courtesy of
 
 [rsvp]:http://guestlistapp.com/events/107526
 
-**We welcome newcomers to our growing community!**  Project Nights now
-feature a **Beginners' Corner**, where volunteers will help novice
-Ruby programmers with computer setup for Mac, Windows, or Linux, as well
-as offer basic advice and instruction. To get the most out of your time,
-you may want to try to get through [our installation guide](/install) in
-advance of the meeting.  
+**We welcome newcomers to our growing community!**  At Project Night, we
+will have a **Beginners' Corner** staffed with volunteers ready to help
+novice Ruby or Ruby on Rails programmers get off to a running start. To
+get the most out of your time, you may want to try to get through [our
+installation guide](/install) in advance of the meeting.  
 
 Remember to bring your laptop and power cord.  Headphones are also
 helpful if you plan to watch tutorials, especially for computer setup.
