@@ -5,8 +5,8 @@ Interested in building useful and amazing things with the Ruby
 programming language or with Ruby on Rails?
 
 Come to Boston Ruby Project Night.  Work on your own project or come
-help someone with theirs.  Everyone is welcome and all skill levels are
-encouraged.  Food and drinks will be provided courtesy of
+help someone with theirs.  Everyone is welcome, from beginner to expert.
+Food and drinks will be provided courtesy of
 [thoughtbot](http://thoughtbot.com/).  Space is limited so please
 [RSVP][rsvp]!
 
