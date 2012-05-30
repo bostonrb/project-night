@@ -23,7 +23,10 @@
 span.line-numbers { padding: 0px 4px }
 .code { width: 100% }
 
-.code pre { font-size: 12px; }
+.code pre { 
+  line-height: 1.5em;
+  font-size: 12px; 
+}
 .debug { color:white ! important; background:blue ! important; }
 
 .annotation { color:#007 }
