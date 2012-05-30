@@ -35,7 +35,7 @@
 
 ---
 
-## Additional development tools (optional).
+## Additional Development Tools (optional).
 
   Graphical git - gitg: `Synaptic` ['Synaptic' means click the 'Software Center Icon on the left'].  
   Vim Editor - gvim: `Synaptic` - and check out [our recommendations](/editors)  
