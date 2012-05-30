@@ -1,9 +1,9 @@
 #Ruby on Rails on Ubuntu  
 
 ### Versions as of 5/20/2012 -
-#### Ubuntu 11.10
-#### Ruby   1.9.3
-#### Rails  3.2.3
+**Ubuntu 11.10*  
+*Ruby   1.9.3*  
+*Rails  3.2.3*  
 
 ---
 
