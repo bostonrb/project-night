@@ -6,13 +6,13 @@
 
 
 a {
-  color: #ddd;
+  color: #333;
 }
 
 body {
-  background: #880000;
-  color: #ddd;
-  font-family: prociono, georgia, palatino, times new roman, serif;
+  background: #FFF;
+  color: #333;
+  font-family: verdana, helvetica, arial, sans;
   text-rendering: optimizeLegibility;
   width: 600px;
   margin: 10px 50px 75px 250px;
@@ -23,14 +23,14 @@ body {
     p {
       font-size: .85em;
       @include border-radius(8px);
-      background-color: #F5DCA0;
+      background-color: #ECECEC;
       padding: 10px;
       text-align: left;
       margin-bottom: 5px;
     }
     h1 {
       a {
-        font-size: 52px;
+        font-size: 36px;
         text-decoration: none;
         padding-left: 6px;
       }
@@ -107,7 +107,7 @@ section#container {
 
 #os-select li {
   display: inline-block;
-  width: 177px;
+  width: 175px;
   margin: 0px 10px;
   text-align: center; }
 
@@ -116,7 +116,7 @@ section#container {
 
 p {
   @include border-radius(8px);
-  background-color: #400;
+  background-color: #ECECEC;
   padding: 10px;
   margin-bottom: 25px;
   line-height: 28px;
