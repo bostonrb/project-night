@@ -13,7 +13,7 @@
 ## Optional - Install Ubuntu
 
 If you haven't already installed Ubuntu, download or obtain the desired version of Ubuntu and either burn onto a CD or copy to a USB drive and install it.  
-As of 5/20/2012 I recommend Ubuntu version 11.10
+As of 5/20/2012 I recommend Ubuntu version 11.10  
   Overview:    <https://help.ubuntu.com/community/Installation>  
   USB Install: <https://help.ubuntu.com/community/Installation/FromUSBStick>
 
