@@ -35,7 +35,7 @@ like to get help on at the beginning of the event.
 Project nights occur on the first Tuesday of every month.
 
 ## where
-### Thoughtbot Offices
+### thoughtbot 
 
 [41 Winter St, Boston Ma 02108](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=41+winter+street+boston+ma+02108&sll=37.0625,-95.677068&sspn=59.597077,135.263672&ie=UTF8&hq=&hnear=41+Winter+St,+Boston,+Suffolk,+Massachusetts+02108&z=17)
 on the 8th floor. Thanks, [thoughtbot!](http://thoughtbot.com/)
