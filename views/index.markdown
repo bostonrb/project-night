@@ -13,7 +13,7 @@ encouraged.  Food will be provided courtesy of
 [rsvp]:http://guestlistapp.com/events/107526
 
 **We welcome newcomers to our growing community!**  Project Nights now
-feature a **Beginners' Corner**, where volunteers will help beginning
+feature a **Beginners' Corner**, where volunteers will help novice
 Ruby programmers with computer setup for Mac, Windows, or Linux, as well
 as offer basic advice and instruction. To get the most out of your time,
 you may want to try to get through [our installation guide](/install) in
