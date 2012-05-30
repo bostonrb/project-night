@@ -4,11 +4,11 @@
 Interested in building useful and amazing things with the Ruby
 programming language?
 
-Come to the Project Night to code, to learn, to teach, and to hang out.
-Work on your own project or come help someone with theirs.  Everyone is
-welcome and all skill levels are encouraged.  Food will be provided
-courtesy of [thoughtbot](http://thoughtbot.com/).  Space is limited so
-please [RSVP][rsvp]!
+Come to Boston Ruby Project Night.  Work on your own project or come
+help someone with theirs.  Everyone is welcome and all skill levels are
+encouraged.  Food will be provided courtesy of
+[thoughtbot](http://thoughtbot.com/).  Space is limited so please
+[RSVP][rsvp]!
 
 [rsvp]:http://guestlistapp.com/events/107526
 
