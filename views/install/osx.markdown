@@ -1,15 +1,16 @@
 ##install
 ### Installing on Mac OS X
 
-We're currently working on our own set of instructions for installing ruby on
-Mac OS X, but  the good folks at
-[RailsBridge](http://installfest.railsbridge.org/installfest/macintosh) have put
-together some great instructions for getting your system set up and
-ready to go.
+The [Rails Ready][rails-ready] installation script will install Ruby, Imagemagick, Rails, and Git automatically.
 
+[rails-ready]:https://github.com/joshfng/railsready
+
+
+You can run the installation script from the Terminal with this command:
+
+```text
+
+wget --no-check-certificate \
+https://raw.github.com/joshfng/railsready/master/railsready.sh && \
+bash railsready.sh 
 ```
-We recommend that you skip the Railsbridge section about installing a text
-editor and check out [our recommendations](/editors) instead.
-```
-
-
