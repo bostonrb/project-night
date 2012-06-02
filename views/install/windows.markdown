@@ -3,11 +3,10 @@
 
 Great news, installing Ruby on Windows is easy!
 
-The good folks at [RailsBridge](http://installfest.railsbridge.org/installfest/windows) have put together some great
-instructions for getting your Windows system set up and ready to go.
+Try [Ruby Installer for Windows](http://rubyinstaller.org/) to get a
+Ruby development environment up and running on Windows.
 
-```
-We recommend that you skip the Railsbridge section about installing a text editor and check out
-[our recommendations](/editors) instead.
-```
+If you also want to set up for Ruby on Rails development, try
+[Rails Installer for Windows](http://railsinstaller.org).
+
 
