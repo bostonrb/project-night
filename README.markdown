@@ -1,4 +1,4 @@
-# bostonrb-beginners
+# project-night
 
 This is the starting point for putting up helpful content for beginners
 who show up at Project Night. 
