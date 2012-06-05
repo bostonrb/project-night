@@ -19,6 +19,9 @@ Git.  If you haven't done that yet, try working through our
 [Ruby On Rails Guides](http://guides.rubyonrails.org/index.html) -
 maintained by the same developers that contribute to Ruby On Rails Core.
   
+[Ruby on Rails Tutorial](http://ruby.railstutorial.org/) by Michael
+Hartl is available for free online. 
+
 [RailsCasts](http://railscasts.com/) - Ryan Bates's acclaimed set of
 screencasts are clear, concise, and cover a wide swath of topics.  A
 great resource for beginners.
