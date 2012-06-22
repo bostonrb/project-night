@@ -16,7 +16,7 @@ After you clone this repo, cd into it and install dependencies with
 
 Then you can start the webapp with 
 
-    ruby web.app
+    ruby web.rb
 
 Open localhost:4567 in your web browser.
 
