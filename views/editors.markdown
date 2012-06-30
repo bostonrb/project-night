@@ -26,6 +26,13 @@ documents to be opened at once through a tabbed windows interface. This is a
 good option for getting up and running with Ruby on Windows without purchasing
 an IDE.  Notepad++ is free and is only available for Windows.
 
+### [Komodo Edit](http://www.activestate.com/komodo-edit)
+[Komodo Edit](http://www.activestate.com/komodo-edit) is a free text
+editor developed by ActiveState, available on Linux, Mac OS X and Windows.
+It provides syntax checking, smart auto-complete and calltips for Ruby,
+JavaScript, CoffeeScript, Node.js, LESS, SCSS, Perl, PHP, Python, Tcl,
+XML, HTML 5, CSS 3.
+
 ## ides
 
 Looking for an IDE? Try out some of these [options](/editors/ides). If you don't
