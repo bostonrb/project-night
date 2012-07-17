@@ -1,5 +1,5 @@
 ## what
-### BostonRB Project Night #2
+### BostonRB Project Night #3
 
 Interested in building useful and amazing things with the Ruby
 programming language or with Ruby on Rails?
@@ -10,7 +10,7 @@ Food and drinks will be provided courtesy of
 [thoughtbot](http://thoughtbot.com/).  Space is limited so please
 [RSVP][rsvp]!
 
-[rsvp]:http://guestlistapp.com/events/110586
+[rsvp]:http://guestlistapp.com/events/113214
 
 **We welcome newcomers!**  At Project Night, we will have a **Beginners'
 Corner** staffed with volunteers ready to help novice Ruby or Ruby on
@@ -30,7 +30,7 @@ everyone introduce themselves and say what they're working on or would
 like to get help on at the beginning of the event.
 
 ## when
-### Tuesday, July 3rd, 7:00 PM - 10:00 PM
+### Tuesday, August 7th, 7:00 PM - 10:00 PM
 
 Project nights occur on the first Tuesday of every month.
 
