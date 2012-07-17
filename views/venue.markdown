@@ -26,4 +26,6 @@ at 10:00 pm.
 
 ## bicycles
 
-You are welcome to bring your bike upstairs. Thanks again thoughtbot!
+You are welcome to bring your bike upstairs to the 8th
+floor and park it in the hall outside the office.
+Thanks again thoughtbot!
