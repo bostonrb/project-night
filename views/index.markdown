@@ -46,10 +46,10 @@ Please [RSVP here][rsvp]!
 
 ## photos
 
-[<img src="http://farm9.staticflickr.com/8292/7592528470_fac44315ce_n.jpg" width="287" alt="project-night">][photo set]
-[<img src="http://farm9.staticflickr.com/8014/7592532524_e1147e701c.jpg"   width="287" alt="project-night">][photo set]
+[<img src="http://farm9.staticflickr.com/8424/7748000598_c8ff58dc63.jpg" width="287" alt="project-night">][photo set]
+[<img src="http://farm9.staticflickr.com/8439/7747999748_3730582268.jpg" width="287" alt="project-night">][photo set]
 [<img src="http://farm8.staticflickr.com/7276/7592527810_2c2349bf7d.jpg"   width="287" alt="project-night">][photo set]
-[<img src="http://farm9.staticflickr.com/8145/7592531988_57b65d7474.jpg"   width="287" alt="project-night">][photo set]
+[<img src="http://farm9.staticflickr.com/8292/7592528470_fac44315ce_n.jpg" width="287" alt="project-night">][photo set]
 [More ...][photo set]
 
-[photo set]:http://www.flickr.com/photos/82871821@N04/sets/72157630624777984/
+[photo set]:http://www.flickr.com/photos/82871821@N04/sets/72157630989561010/
