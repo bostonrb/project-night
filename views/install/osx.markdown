@@ -29,7 +29,7 @@ Once installation is complete open XCode and on the top menu bar
 click on 'XCode/Preferences'. In the preferences pane click on
 'Downloads' and then install the 'Command Line Tools'.
 
-![CommandLineTools](/images/installfest/osx-commandline.png)
+![CommandLineTools](/images/osx-commandline.png)
 
 ## General Installation
 
