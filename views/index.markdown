@@ -10,7 +10,7 @@ Food and drinks will be provided courtesy of
 [thoughtbot](http://thoughtbot.com/).  Space is limited so please
 [RSVP][rsvp]!
 
-[rsvp]:http://guestlistapp.com/events/113214
+[rsvp]:http://guestlistapp.com/events/118569
 
 **We welcome newcomers!**  At Project Night, we will have a **Beginners'
 Corner** staffed with volunteers ready to help novice Ruby or Ruby on
