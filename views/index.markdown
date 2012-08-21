@@ -12,7 +12,7 @@ We will encourage people to meet, connect, talk, mentor, and learn from
 each other. 
 
 Food and drinks will be provided courtesy of
-[thoughtbot](http://thoughtbot.com/).  Spots are limited and tends to run
+[thoughtbot](http://thoughtbot.com/).  Spots are limited and tend to run
 out so please [RSVP][rsvp] soon.
 
 [rsvp]:http://guestlistapp.com/events/118569
