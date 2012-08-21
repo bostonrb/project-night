@@ -20,8 +20,7 @@ out so please [RSVP][rsvp] soon.
 **We welcome newcomers.**  At Project Night, we will have a **Beginners'
 Corner** staffed with volunteers ready to help novice Ruby or Ruby on
 Rails programmers get off to a running start. To get the most out of
-your time, you may want to try to get through [our installation
-guide](/install) in advance of the meeting.  
+your time, you may want to try to get through [our installation guide](http://workshop.bostonrb.org/ruby_from_scratch) in advance of the meeting.  
 
 Graduates of the [Boston Ruby Workshop for Women and their
 Friends](http://workshop.bostonrb.org/) are especially welcome to
