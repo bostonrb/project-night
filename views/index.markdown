@@ -23,7 +23,7 @@ Rails programmers get off to a running start. To get the most out of
 your time, you may want to try to get through [our installation
 guide](/install) in advance of the meeting.  
 
-Grads of the [Boston Ruby Workshop for Women and their
+Graduates of the [Boston Ruby Workshop for Women and their
 Friends](http://workshop.bostonrb.org/) are especially welcome to
 attend.
 
