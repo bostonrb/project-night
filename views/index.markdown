@@ -1,5 +1,5 @@
 ## what
-### BostonRB Project Night #4
+### BostonRB Project Night #5
 
 Interested in building useful and amazing things with the Ruby
 programming language or with Ruby on Rails?  Tired of hackfests where no
@@ -34,7 +34,7 @@ everyone introduce themselves and say what they're working on or would
 like to get help on at the beginning of the event.
 
 ## when
-### Tuesday, August 7th, 7:00 PM - 10:00 PM
+### Tuesday, September 4th, 7:00 PM - 10:00 PM
 
 Project nights occur on the first Tuesday of every month.
 
