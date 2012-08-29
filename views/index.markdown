@@ -1,5 +1,5 @@
 ## what
-### BostonRB Project Night #5
+### BostonRB Project Night #4
 
 Interested in building useful and amazing things with the Ruby
 programming language or with Ruby on Rails?  Tired of hackfests where no
