@@ -22,10 +22,8 @@ Corner** staffed with volunteers ready to help novice Ruby or Ruby on
 Rails programmers get off to a running start. To get the most out of
 your time, you may want to try to get through [our installation guide](http://workshop.bostonrb.org/ruby_from_scratch) in advance of the meeting.  
 
-Graduates of the [Boston Ruby Workshop for Women and their
-Friends](http://workshop.bostonrb.org/) are especially welcome to
+Graduates of the [RailsBridge Boston Workshop](http://workshop.bostonrb.org/) are especially welcome to
 attend.
-
 
 Remember to bring your laptop and power cord.  Headphones are also
 helpful if you plan to watch tutorials, especially for computer setup.
@@ -57,3 +55,4 @@ Please [RSVP here][rsvp]!
 [More ...][photo set]
 
 [photo set]:http://www.flickr.com/photos/82871821@N04/sets/72157630989561010/
+
